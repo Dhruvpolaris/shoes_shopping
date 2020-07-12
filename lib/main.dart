@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:shoe_shop/cards.dart';
 import 'package:shoe_shop/tabs.dart';
 import 'package:flutter/services.dart';
+
 void main() => runApp(
       MaterialApp(
         debugShowCheckedModeBanner: false,
@@ -32,7 +33,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.transparent,
         leading: null,
         title: Text(
-          "Shoes",
+          "Nike Shoes",
           style: TextStyle(color: Colors.black, fontSize: 25.0),
         ),
         actions: <Widget>[
