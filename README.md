@@ -1,4 +1,4 @@
-# Flutter UI Shoe Shopping App
+# Flutter UI Shoes Shopping Application
 
 <p align="center"> 
 <img width="350" height="600" src="https://github.com/Dhruvpolaris/shoes_shopping/blob/master/finaloutput.gif">
